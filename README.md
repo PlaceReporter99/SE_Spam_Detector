@@ -1,2 +1,2 @@
 # SE Spam Detector
-Searches for spam in stack exchange.
+Searches for spam in Stack Exchange.
