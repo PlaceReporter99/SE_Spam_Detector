@@ -1,0 +1,32 @@
+name: Search for spam
+
+on:
+  schedule:
+    - cron: '4/5 * * * *'
+
+jobs:
+  update_links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout_repo
+        uses: actions/checkout@v3.5.3
+
+      - name: setup_python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: run_script
+        run: python3 spamsearch.py
+
+      - name: update_spam_files
+        run: echo ${{ steps.run_script.outputs.spam_links }} > spam_posts.md
+
+      - name: update_repo_git
+        run: |
+          git config --global user.name "PlaceReporter99"
+          git config --global user.email "106759534+PlaceReporter99@users.noreply.github.com"
+
+          git add -A
+          git commit -m "Update spam links"
+          git push
