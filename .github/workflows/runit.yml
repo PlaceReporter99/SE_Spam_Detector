@@ -2,8 +2,8 @@ name: Search for spam
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '4/5 * * * *'
+  #schedule:
+    #- cron: '4/5 * * * *'
 
 jobs:
   update_links:
