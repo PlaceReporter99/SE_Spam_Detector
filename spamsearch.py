@@ -1,3 +1,5 @@
+import requests
+
 def get_spam(site: str = "stackoverflow") -> str:
   true = True
   false = False
