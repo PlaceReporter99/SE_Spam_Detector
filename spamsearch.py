@@ -14,4 +14,5 @@ def actout(name: str, value: str) -> None:
     print(f'{name}={value}', file=fh)
 
 with open("sitename.txt") as f:
-  actout("spam_links", get_spam(f.read().replace('\n','') or "stackoverflow").replace("\n","<br>"))
+  actout("spam_links",a := (get_spam(f.read().replace('\n','') or "stackoverflow").replace("\n","<br>")))
+  print(a)
