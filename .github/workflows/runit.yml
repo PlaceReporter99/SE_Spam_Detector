@@ -25,10 +25,7 @@ jobs:
           python3 -m pip install -r requirements.txt
 
       - name: run_script
-        run: python3 spamsearch.py
-
-      - name: update_spam_files
-        run: echo ${{ steps.run_script.outputs.spam_links }} > spam_posts.md
+        run: ./main.sh
 
       - name: update_repo_git
         run: |
