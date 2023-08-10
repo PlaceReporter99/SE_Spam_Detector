@@ -1,1 +1,1 @@
-https://stackapps.com/questions/10329/sharjah-call-girls-971552970067-indian-call-girl-in-sharjah<br>https://stackapps.com/questions/10264/spam-detector-detect-spam-posts-section-just-to-test-it-736-555-007-3
+https://stackapps.com/questions/10264/spam-detector-detect-spam-posts-section-just-to-test-it-736-555-007-3
