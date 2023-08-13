@@ -1,1 +1,1 @@
-https://stackapps.com/questions/10334/pagli-credit-loan-customer-care-helpline-number-91-91-8744818273-8744-8<br>https://stackapps.com/questions/10264/spam-detector-detect-spam-posts-section-just-to-test-it-736-555-007-3
+https://stackapps.com/questions/10264/spam-detector-detect-spam-posts-section-just-to-test-it-736-555-007-3
