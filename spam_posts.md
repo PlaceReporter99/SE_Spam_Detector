@@ -1,1 +1,1 @@
-https://stackapps.com/questions/10350/lucky-rupee-loan-c-u-s-t-o-m-e-r-care-number-%ef%b8%8f09572753517-9572-753-517<br>https://stackapps.com/questions/10348/lucky-rupee-loan-c-u-s-t-o-m-e-r-care-number-%ef%b8%8f9572753517-9572-753-517-all<br>https://stackapps.com/questions/10264/spam-detector-detect-spam-posts-section-just-to-test-it-736-555-007-3
+https://stackapps.com/questions/10264/spam-detector-detect-spam-posts-section-just-to-test-it-736-555-007-3
