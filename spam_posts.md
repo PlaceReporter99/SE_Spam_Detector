@@ -1,1 +1,1 @@
-https://stackapps.com/questions/10424/cash-park-loan-app-customer-care-number-7908515840-7680865565-available<br>https://stackapps.com/questions/10264/spam-detector-detect-spam-posts-section-just-to-test-it-736-555-007-3
+https://stackapps.com/questions/10264/spam-detector-detect-spam-posts-section-just-to-test-it-736-555-007-3
